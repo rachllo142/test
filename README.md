@@ -1,5 +1,5 @@
 # test
-10/17/23 class demo
+this is really stupid code
 
 ## example
 
